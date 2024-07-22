@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Ass05oop\Ass05oop\Ass05oop\obj\Debug\net8.0\Ass05oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Ass05oop\Ass05oop\Ass05oop\obj\Debug\net8.0\Ass05oop.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ass05oop\Ass05oop\Ass05oop\obj\Debug\net8.0\Ass05oop.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ass05oop\Ass05oop\Ass05oop\obj\Debug\net8.0\Ass05oop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ass05oop\Ass05oop\Ass05oop\obj\Debug\net8.0\Ass05oop.sourcelink.json
